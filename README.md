@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h3>
 <br /><br />
 <p>
-안녕하세요, 저는 직업훈련교사[김명철]입니다. 열정적인 풀 스택 웹 개발자이자 직업훈련교사입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다. 예시를 통한  강의 전달력뿐만 아니라. 수강생들과의 인간적인 교류를 중요시 여기는 직업관을 가지고 있습니다.
+안녕하세요, 저는 리틀 코딩 몬스터[임현성]입니다. 열정적인 신종 풀 스택 웹 개발자로 성장중입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다. 예시를 통한  강의 전달력뿐만 아니라. 수강생들과의 인간적인 교류를 중요시 여기는 직업관을 가지고 있습니다.
 
 또한, 원리위주의 수업을 지향하며 이를 통해 응용력을 배가시키는 전달자입니다. 구글링을 통한 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
 </p>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
 
 
-<h1>Hi 👋, I'm YoonSeoyeon</h1>
+<h1>Hi 👋, I'm HyunSung Lim</h1>
 <br>
 
 ### 🙋 I'm HyunSung, Fullstack developer. 
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <br>
 
 ### 🎓 Education
-<p>상지대학교 빅데이터사이언스과 전공</p>
+<p>빅데이터사이언스과 전공</p>
 
 
     
