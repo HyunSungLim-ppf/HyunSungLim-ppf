@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 
 <br />
 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
-
+-->
 
 <h1>Hi 👋, I'm HyunSung Lim</h1>
 <br>
