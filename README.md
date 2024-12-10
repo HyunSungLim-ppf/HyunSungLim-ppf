@@ -19,11 +19,12 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I'm%20Growing%20Developer😎&desc=with%20MCSSAM&descAlign=90&descAlignY=10&fontSize=50&animation=twinkling&fontColor=030303" />
 </div>
 
-<h1 align="center">
+<h3 align="center">
   개발과 코딩을 사랑하고, 즐기는 개발자 현성입니다.
-</h1>
+</h3>
 <br /><br />
 <p>
+<h1>저는 어떤 사람일까요?🤔</h1>
 안녕하세요, 저는 리틀 코딩 몬스터 [임현성]입니다. 열정적인 신종 풀 스택 웹 개발자로 성장중입니다. <br/>
 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다. <br/>
 예시를 통한  강의 전달력뿐만 아니라. 수강생들과의 인간적인 교류를 중요시 여기는 직업관을 가지고 있습니다.<br/>
