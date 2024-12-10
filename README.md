@@ -54,15 +54,17 @@ Here are some ideas to get you started:
 **🙋 아! 이런것도 해봤어요!! :**               
 <p>
   <img src="https://img.shields.io/badge/Unity-ffffff?style=flat&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=000000"/>
 </p>
 
 <br><br>
 
 **Current Lecture :** 
 
-- 2018.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
+- 2024.05.28 ~ 이젠 컴퓨터 아카데미 풀스택 강의
 <br /><br />
 
 
@@ -72,6 +74,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
 -->
 
+<!--
 <h1>Hi 👋, I'm HyunSung Lim</h1>
 <br>
 
@@ -84,6 +87,8 @@ Here are some ideas to get you started:
 
 
 <br>
+-->
+
 
 ### ⛺ Experiences
 <p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
