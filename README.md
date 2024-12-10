@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 - 기초와 기본 원리를 근간으로 기술에 대한 탐구를 하며, 응용 및 활용을 통한 진화를 추구하고 있습니다.
 - "MCSSAM"의 수업을 비롯하여 여러 레퍼런스와 오픈 소스를 활발히 활용하고 있으며, 정리를 통해 나만의 노하우와 레퍼런스를 쌓아가고 있습니다.
   <hr>
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
+- 💬 어떠한 것이든 문의해 주세요, 현성이는 무료로 해줍니다😅;;[email](mailto:tndus7013@naver.com)
 <br>
 
 **My tech stack 🧑🏿‍💻:**  
