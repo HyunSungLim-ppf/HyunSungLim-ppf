@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 - 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
 <br>
 
-**My tech stack :**  
+**My tech stack 🧑🏿‍💻:**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
-- Portfolio
+- ANSI SQL, Oracle, MySQL
 <br>
 
 
