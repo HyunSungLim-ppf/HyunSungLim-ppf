@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 **🙋 아! 이런것도 해봤어요!! :**               
 <p>
   <img src="https://img.shields.io/badge/Unity-ffffff?style=flat&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/mysql-#4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/>
 </p>
 
 <br><br>
