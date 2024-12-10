@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi 👋, I'm HyunSung Lim! I'm Growing Developer</h1>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</div>
 <h3 align="center">
   개발과 코딩을 사랑하고, 즐기는 개발자 현성입니다.
 </h3>
