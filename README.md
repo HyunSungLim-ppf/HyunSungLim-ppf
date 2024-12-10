@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **HyunSungLim-ppf/HyunSungLim-ppf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm MCSSAM</h1>
+<h1 align="center">Hi, I'm HyunSung Lim!</h1>
 <h3 align="center">
-  Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
+  개발과 코딩을 사랑하고, 즐기는 개발자 현성입니다.
 </h3>
 <br /><br />
 <p>
@@ -71,8 +69,8 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm YoonSeoyeon</h1>
 <br>
 
-### 🙋 I'm Seoyeon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 XXX입니다. <br>
+### 🙋 I'm HyunSung, Fullstack developer. 
+🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 임현성입니다. <br>
 🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
 🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
 🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
@@ -109,7 +107,7 @@ Here are some ideas to get you started:
 <br>
 
 ### 🎓 Education
-<p>xx대학교 xx과 심화전공  |  2020.03 ~ </p>
+<p>상지대학교 빅데이터사이언스과 전공</p>
 
 
     
