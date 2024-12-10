@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   Hi 👋, I'm HyunSung Lim! 
 </h1>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20GrowingDeveloper😎&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I'm%20GrowingDeveloper😎&fontSize=50&animation=blink" />
 </div>
 
 <h3 align="center">
