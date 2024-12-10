@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I'm%20Growing%20Developer😎&desc=with%20MCSSAM&descAlign=90&descAlignY=10&fontSize=50&animation=twinkling&fontColor=030303" />
 </div>
 
-<h3 align="center">
+<h1 align="center">
   개발과 코딩을 사랑하고, 즐기는 개발자 현성입니다.
-</h3>
+</h1>
 <br /><br />
 <p>
 안녕하세요, 저는 리틀 코딩 몬스터 [임현성]입니다. 열정적인 신종 풀 스택 웹 개발자로 성장중입니다. <br/>
