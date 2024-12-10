@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 **💡 아! 이런것도 해봤어요!! :**               
 <p>
 <img src="https://img.shields.io/badge/Unity-ffffff?style=flat&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-ffffff?style=flat&logo=Python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Express-ffffff?style=flat&logo=Express&logoColor=black"/>
 </p>
 
