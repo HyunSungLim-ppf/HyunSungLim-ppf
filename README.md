@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 - 💬 어떠한 것이든 문의해 주세요, 현성이는 무료로 해줍니다😅;;[email](mailto:tndus7013@naver.com)
 <br>
 
-**My tech stack 🧑🏿‍💻:**  
+**🧑🏿‍💻 My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - ANSI SQL, Oracle, MySQL
 <br>
 
 
-**languages and tools :**
+**🛠️ languages and tools :**
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
+                                                                                                                                                                                                                       
+**💡 아! 이런것도 해봤어요!! :**               
 <p><img src="https://img.shields.io/badge/Unity-ffffff?style=flat&logo=Unity&logoColor=black"/</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
