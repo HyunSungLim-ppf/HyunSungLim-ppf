@@ -128,7 +128,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
 -->
 
-
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
 </div>
 
 ![image](https://github.com/user-attachments/assets/0d6744ea-a70d-4951-b063-cb1dd9685a66)
