@@ -127,3 +127,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyunSungLim-ppf&show_icons=true&locale=en" alt="HyunSungLim-ppf" />
+
+![image](https://github.com/user-attachments/assets/0d6744ea-a70d-4951-b063-cb1dd9685a66)
+
