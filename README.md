@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 -->
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-<p>My Portpolios</p>
+<p>My Portfolios👨🏿‍💻</p>
 
 [website]: https://lhsportpolio.modoo.at/
 
