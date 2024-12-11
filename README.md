@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <br>
 
 ### 🎓 Education
-<p>빅데이터사이언스과 전공</p>
+<p>빅데이터사이언스과 전공 at Sangji University</p>
 
 
     
