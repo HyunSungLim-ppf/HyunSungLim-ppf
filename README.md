@@ -119,7 +119,9 @@ Here are some ideas to get you started:
 
 [website]: https://lhsportpolio.modoo.at/
 
-<br><br><br><br><br><br>
+<br><br><hr><br><br>
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSungLim-ppf&layout=donut)](https://github.com/HyunSungLim-ppf/github-readme-stats)
 
 <!--
@@ -127,6 +129,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyunSungLim-ppf&show_icons=true&locale=en" alt="HyunSungLim-ppf" />
+</div>
 
 ![image](https://github.com/user-attachments/assets/0d6744ea-a70d-4951-b063-cb1dd9685a66)
 
