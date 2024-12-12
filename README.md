@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 **🧑🏿‍💻 My tech stack :**  
-- Backend web development (Java, Servlet/JSP)
+- Backend web development (Java, Servlet/JSP, Spring FrameWork, Spring Boot)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - ANSI SQL, Oracle, MySQL
 <br>
